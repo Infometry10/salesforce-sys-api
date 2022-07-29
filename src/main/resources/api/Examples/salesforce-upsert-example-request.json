@@ -1,0 +1,369 @@
+[
+    {
+        "inboundAttachmentNames": [],
+        "exceptionPayload": null,
+        "inboundPropertyNames": [],
+        "outboundAttachmentNames": [],
+        "payload": {
+            "record": {
+                "createdDate": "2021-03-27T13:13:58.000-07:00",
+                "lastModifiedDate": "2021-03-27T13:17:39.000-07:00",
+                "salesDescription": "KD Breaking Bud IPA",
+                "includeChildren": "false",
+                "incomeAccount": {
+                    "name": "4000 Sales"
+                },
+                "taxSchedule": {
+                    "name": "S1"
+                },
+                "costEstimateType": "_itemDefinedCost",
+                "unitsType": {
+                    "name": "Each"
+                },
+                "saleUnit": {
+                    "name": "Each"
+                },
+                "costEstimateUnits": "per Ea",
+                "enforceMinQtyInternally": "true",
+                "useMarginalRates": "false",
+                "overallQuantityPricingType": "_byOverallItemQuantity",
+                "isFulfillable": "false",
+                "costCategory": {
+                    "name": "Default"
+                },
+                "minimumQuantityUnits": "Ea",
+                "deferRevRec": "false",
+                "createJob": "false",
+                "excludeFromSitemap": "false",
+                "sitemapPriority": "_auto",
+                "isDonationItem": "false",
+                "showDefaultDonationAmount": "false",
+                "dontShowPrice": "false",
+                "onSpecial": "false",
+                "outOfStockBehavior": "_default",
+                "itemId": "KD Breaking Bud IPA",
+                "displayName": "KD Breaking Bud",
+                "isOnline": "false",
+                "offerSupport": "false",
+                "isInactive": "false",
+                "availableToPartners": "false",
+                "department": {
+                    "name": "BN Sales"
+                },
+                "class": {
+                    "name": "Consumer Goods"
+                },
+                "consumptionUnit": {
+                    "name": "Each"
+                },
+                "customFieldList": {
+                    "BooleanCustomFieldRef__custitem16": {
+                        "value": "false"
+                    }
+                }
+            }
+        },
+        "outboundPropertyNames": [],
+        "attributes": {
+            "transportHeaders": {
+                "date": "Tue, 19 Jul 2022 11:21:59 GMT",
+                "content-length": "12663",
+                "set-cookie": "NS_ROUTING_VERSION=LAGGING; path=/",
+                "vary": "User-Agent",
+                "x-n-operationid": "73c9a3c5-7dcd-451d-bc03-fafb72018eaf",
+                "content-type": "text/xml;charset=utf-8",
+                "connection": "keep-alive",
+                "p3p": "CP=\"CAO PSAa OUR BUS PUR\"",
+                "strict-transport-security": "max-age=31536000",
+                "ns_rtimer_composite": "1461192389:706172746E6572733032342E70726F642E7376616C652E6E65746C65646765722E636F6D:80",
+                "akamai-grn": "0.9c8c2c31.1658229714.523cc62"
+            },
+            "transportAdditionalData": {
+                "reasonPhrase": "OK",
+                "statusCode": "200"
+            },
+            "soapHeaders": {
+                "documentInfo": {
+                    "documentInfo": {
+                        "nsId": "WEBSERVICES_TSTDRV1611468_071920223723383271910452037_a83aa8"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "inboundAttachmentNames": [],
+        "exceptionPayload": null,
+        "inboundPropertyNames": [],
+        "outboundAttachmentNames": [],
+        "payload": {
+            "record": {
+                "createdDate": "2021-03-27T13:15:32.000-07:00",
+                "lastModifiedDate": "2021-03-27T13:17:54.000-07:00",
+                "salesDescription": "KD Breaking Bud QIPA",
+                "includeChildren": "false",
+                "incomeAccount": {
+                    "name": "4000 Sales"
+                },
+                "taxSchedule": {
+                    "name": "S1"
+                },
+                "costEstimateType": "_itemDefinedCost",
+                "unitsType": {
+                    "name": "Each"
+                },
+                "saleUnit": {
+                    "name": "Each"
+                },
+                "costEstimateUnits": "per Ea",
+                "enforceMinQtyInternally": "true",
+                "useMarginalRates": "false",
+                "overallQuantityPricingType": "_byOverallItemQuantity",
+                "isFulfillable": "false",
+                "costCategory": {
+                    "name": "Default"
+                },
+                "minimumQuantityUnits": "Ea",
+                "deferRevRec": "false",
+                "createJob": "false",
+                "excludeFromSitemap": "false",
+                "sitemapPriority": "_auto",
+                "isDonationItem": "false",
+                "showDefaultDonationAmount": "false",
+                "dontShowPrice": "false",
+                "onSpecial": "false",
+                "outOfStockBehavior": "_default",
+                "itemId": "KD Hop Insanity QIPA",
+                "displayName": "KD Hop Insanity",
+                "isOnline": "false",
+                "offerSupport": "false",
+                "isInactive": "false",
+                "availableToPartners": "false",
+                "department": {
+                    "name": "BN Sales"
+                },
+                "class": {
+                    "name": "Consumer Goods"
+                },
+                "consumptionUnit": {
+                    "name": "Each"
+                },
+                "customFieldList": {
+                    "BooleanCustomFieldRef__custitem16": {
+                        "value": "false"
+                    }
+                }
+            }
+        },
+        "outboundPropertyNames": [],
+        "attributes": {
+            "transportHeaders": {
+                "date": "Tue, 19 Jul 2022 11:21:59 GMT",
+                "content-length": "12663",
+                "set-cookie": "NS_ROUTING_VERSION=LAGGING; path=/",
+                "vary": "User-Agent",
+                "x-n-operationid": "73c9a3c5-7dcd-451d-bc03-fafb72018eaf",
+                "content-type": "text/xml;charset=utf-8",
+                "connection": "keep-alive",
+                "p3p": "CP=\"CAO PSAa OUR BUS PUR\"",
+                "strict-transport-security": "max-age=31536000",
+                "ns_rtimer_composite": "1461192389:706172746E6572733032342E70726F642E7376616C652E6E65746C65646765722E636F6D:80",
+                "akamai-grn": "0.9c8c2c31.1658229714.523cc62"
+            },
+            "transportAdditionalData": {
+                "reasonPhrase": "OK",
+                "statusCode": "200"
+            },
+            "soapHeaders": {
+                "documentInfo": {
+                    "documentInfo": {
+                        "nsId": "WEBSERVICES_TSTDRV1611468_071920223723383271910452037_a83aa8"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "inboundAttachmentNames": [],
+        "exceptionPayload": null,
+        "inboundPropertyNames": [],
+        "outboundAttachmentNames": [],
+        "payload": {
+            "record": {
+                "createdDate": "2021-03-27T13:17:04.000-07:00",
+                "lastModifiedDate": "2021-03-27T13:18:07.000-07:00",
+                "salesDescription": "KD Breaking Bud DIPA",
+                "includeChildren": "false",
+                "incomeAccount": {
+                    "name": "4000 Sales"
+                },
+                "taxSchedule": {
+                    "name": "S1"
+                },
+                "costEstimateType": "_itemDefinedCost",
+                "unitsType": {
+                    "name": "Each"
+                },
+                "saleUnit": {
+                    "name": "Each"
+                },
+                "costEstimateUnits": "per Ea",
+                "enforceMinQtyInternally": "true",
+                "useMarginalRates": "false",
+                "overallQuantityPricingType": "_byOverallItemQuantity",
+                "isFulfillable": "false",
+                "costCategory": {
+                    "name": "Default"
+                },
+                "minimumQuantityUnits": "Ea",
+                "deferRevRec": "false",
+                "createJob": "false",
+                "excludeFromSitemap": "false",
+                "sitemapPriority": "_auto",
+                "isDonationItem": "false",
+                "showDefaultDonationAmount": "false",
+                "dontShowPrice": "false",
+                "onSpecial": "false",
+                "outOfStockBehavior": "_default",
+                "itemId": "KD Tahoe Deep DIPA",
+                "displayName": "KD Tahoe Deep DIPA",
+                "isOnline": "false",
+                "offerSupport": "false",
+                "isInactive": "false",
+                "availableToPartners": "false",
+                "department": {
+                    "name": "BN Sales"
+                },
+                "class": {
+                    "name": "Consumer Goods"
+                },
+                "consumptionUnit": {
+                    "name": "Each"
+                },
+                "customFieldList": {
+                    "BooleanCustomFieldRef__custitem16": {
+                        "value": "false"
+                    }
+                }
+            }
+        },
+        "outboundPropertyNames": [],
+        "attributes": {
+            "transportHeaders": {
+                "date": "Tue, 19 Jul 2022 11:21:59 GMT",
+                "content-length": "12663",
+                "set-cookie": "NS_ROUTING_VERSION=LAGGING; path=/",
+                "vary": "User-Agent",
+                "x-n-operationid": "73c9a3c5-7dcd-451d-bc03-fafb72018eaf",
+                "content-type": "text/xml;charset=utf-8",
+                "connection": "keep-alive",
+                "p3p": "CP=\"CAO PSAa OUR BUS PUR\"",
+                "strict-transport-security": "max-age=31536000",
+                "ns_rtimer_composite": "1461192389:706172746E6572733032342E70726F642E7376616C652E6E65746C65646765722E636F6D:80",
+                "akamai-grn": "0.9c8c2c31.1658229714.523cc62"
+            },
+            "transportAdditionalData": {
+                "reasonPhrase": "OK",
+                "statusCode": "200"
+            },
+            "soapHeaders": {
+                "documentInfo": {
+                    "documentInfo": {
+                        "nsId": "WEBSERVICES_TSTDRV1611468_071920223723383271910452037_a83aa8"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "inboundAttachmentNames": [],
+        "exceptionPayload": null,
+        "inboundPropertyNames": [],
+        "outboundAttachmentNames": [],
+        "payload": {
+            "record": {
+                "createdDate": "2021-03-27T13:40:05.000-07:00",
+                "lastModifiedDate": "2021-03-27T13:41:24.000-07:00",
+                "includeChildren": "false",
+                "incomeAccount": {
+                    "name": "4000 Sales"
+                },
+                "taxSchedule": {
+                    "name": "S1"
+                },
+                "shippingCostUnits": "per CS(BTL2.5)",
+                "handlingCostUnits": "per CS(BTL2.5)",
+                "costEstimateType": "_itemDefinedCost",
+                "weightUnits": "per CS(BTL2.5)",
+                "costEstimateUnits": "per CS(BTL2.5)",
+                "unitsType": {
+                    "name": "Bottle 2.5 Pints"
+                },
+                "saleUnit": {
+                    "name": "Case(BTL2.5)"
+                },
+                "enforceMinQtyInternally": "true",
+                "shipIndividually": "false",
+                "isFulfillable": "true",
+                "costCategory": {
+                    "name": "Default"
+                },
+                "useMarginalRates": "false",
+                "overallQuantityPricingType": "_byLineQuantity",
+                "minimumQuantityUnits": "CS(BTL2.5)",
+                "deferRevRec": "false",
+                "excludeFromSitemap": "false",
+                "sitemapPriority": "_auto",
+                "isDonationItem": "false",
+                "showDefaultDonationAmount": "false",
+                "dontShowPrice": "false",
+                "onSpecial": "false",
+                "outOfStockBehavior": "_default",
+                "itemId": "KD Breaking Bud",
+                "displayName": "KD Breaking Bud",
+                "isOnline": "false",
+                "offerSupport": "false",
+                "isInactive": "false",
+                "availableToPartners": "false",
+                "department": {
+                    "name": "BN Sales"
+                },
+                "consumptionUnit": {
+                    "name": "Bottles 2.5"
+                },
+                "customFieldList": {
+                    "BooleanCustomFieldRef__custitem16": {
+                        "value": "false"
+                    }
+                }
+            }
+        },
+        "outboundPropertyNames": [],
+        "attributes": {
+            "transportHeaders": {
+                "date": "Tue, 19 Jul 2022 11:21:59 GMT",
+                "content-length": "12663",
+                "set-cookie": "NS_ROUTING_VERSION=LAGGING; path=/",
+                "vary": "User-Agent",
+                "x-n-operationid": "73c9a3c5-7dcd-451d-bc03-fafb72018eaf",
+                "content-type": "text/xml;charset=utf-8",
+                "connection": "keep-alive",
+                "p3p": "CP=\"CAO PSAa OUR BUS PUR\"",
+                "strict-transport-security": "max-age=31536000",
+                "ns_rtimer_composite": "1461192389:706172746E6572733032342E70726F642E7376616C652E6E65746C65646765722E636F6D:80",
+                "akamai-grn": "0.9c8c2c31.1658229714.523cc62"
+            },
+            "transportAdditionalData": {
+                "reasonPhrase": "OK",
+                "statusCode": "200"
+            },
+            "soapHeaders": {
+                "documentInfo": {
+                    "documentInfo": {
+                        "nsId": "WEBSERVICES_TSTDRV1611468_071920223723383271910452037_a83aa8"
+                    }
+                }
+            }
+        }
+    }
+]

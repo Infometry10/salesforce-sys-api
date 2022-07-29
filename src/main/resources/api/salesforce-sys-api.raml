@@ -1,0 +1,28 @@
+#%RAML 1.0
+title: salesforce-sys-api
+
+
+traits:
+  client-id-required:
+    headers:
+      client_id:
+        type: string
+      client_secret:
+        type: string
+    responses:
+      401:
+        description: Unauthorized or invalid client application credentials
+      500:
+        description: Bad response from authorization server, or WSDL SOAP Fault error
+  errorResponse : !include /Traits/errortrait.raml
+/salesforce/upsert:
+  post:
+    is: [errorResponse,client-id-required]
+    body:
+      application/json:
+        example: !include/Examples/salesforce-upsert-example-request.json
+    responses:
+      201:
+        body:
+          application/json:
+            example:  "Item added in Salesforce"
